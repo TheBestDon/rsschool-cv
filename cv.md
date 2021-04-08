@@ -35,3 +35,8 @@ Bs: Vilnius University Bussiness Managment
 2016 - Vilnius Coding School (6 weeks course)
 2018 - Agile principles course
 2018 - Quantum programming
+
+# Languages
+ * English - used everyday in working environment
+ * Russian - fluent
+ * Lithuanian - mother tongue
