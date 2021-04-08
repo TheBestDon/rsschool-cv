@@ -28,3 +28,10 @@ Full stack developer, always on lookup to learn something new.
 
 # Experience
 2.5 years full stack developer at *Devicebits/ResultsCX* - company specializing at customer service, callcenters. Working on internal and external systems, bots, etc. Backend is deployed to AWS, so familiar with lambdas, S3 and other AWS services.
+
+# Education
+
+Bs: Vilnius University Bussiness Managment
+2016 - Vilnius Coding School (6 weeks course)
+2018 - Agile principles course
+2018 - Quantum programming
